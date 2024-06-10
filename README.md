@@ -9,7 +9,7 @@ I have 4 years of experience in engineering projects involving  mobile systems, 
 > "I still need you. I still miss you. And now I wonder... " - Latrel
 
 <div align ="center">
-    <img scr ="https://github.com/gfonsc/gfonsc/blob/ryoiki_tenkai.jpeg"/>
+    <img scr ="https://github.com/BPalhano/BPalhano/blob/338b7d91030f7f71bcc8510a3b366591a640b66a/images/ryoiki_tenkai.jpeg"/>
 <div>
 
 
