@@ -8,8 +8,8 @@ I have 4 years of experience in engineering projects involving  mobile systems, 
 
 > "I still need you. I still miss you. And now I wonder... " - Latrel
 
-<div align = "center">
-    <img scr = "https://github.com/gfonsc/gfonsc/images/ryoiki_tenkai.jpeg"/>
+<div align ="center">
+    <img scr ="https://github.com/gfonsc/gfonsc/blob/ryoiki_tenkai.jpeg"/>
 <div>
 
 
