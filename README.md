@@ -1,4 +1,17 @@
-## Hi there 👋
+# Gabriel Fonseca
+
+**`Crazy and dreamy`**
+
+I'm an electrical enginnering student, with my main areas of interest being: embedded systems, microelectronics, power eletronics, control systems and telecommunications. </br>
+
+I have 4 years of experience in engineering projects involving  mobile systems, such as airplanes, drones, rockets, nanosat's and formula cars.
+
+> "I still need you. I still miss you. And now I wonder... " - Latrel
+
+<div align = "center">
+    <img scr = "https://github.com/gfonsc/gfonsc/images/ryoiki_tenkai.jpeg"/>
+<div>
+
 
 <!--
 **gfonsc/gfonsc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
